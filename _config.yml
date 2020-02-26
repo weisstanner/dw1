@@ -83,12 +83,12 @@ author:
   name             : "David Weisstanner"
   avatar           : "profile.png"
   bio              : "Postdoctoral researcher at University of Oxford"
-  location         : "Location"
+  location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ch/citations?user=0ypSuhsAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/David_Weisstanner"
   uri              :
   bitbucket        :
   codepen          :
