@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "David Weisstanner"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at University of Oxford"
+  bio              : "Postdoctoral researcher, University of Oxford"
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ch/citations?user=0ypSuhsAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/David_Weisstanner"
+  researchgate     : "https://www.researchgate.net/profile/David_Weisstanner"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weisstanner"
+  github           : # "weisstanner"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4245-898X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
