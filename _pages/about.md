@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am David Weisstanner, a postdoctoral researcher at the University of Oxford. I am affiliated to the Department of Social Policy and Intervention, the Institute for New Economic Thinking, and an associate member of Nuffield College.
+Hello! I am David Weisstanner, a postdoctoral researcher at the University of Oxford. I am affiliated to the [Department of Social Policy and Intervention](https://www.spi.ox.ac.uk/), the Institute for New Economic Thinking, and an associate member of Nuffield College.
 
 My research focuses on the political causes and consequences of income inequality in advanced democracies. In my postdoc project (with Brian Nolan), I explore how absolute and relative economic experiences affect redistributive preferences and voting behaviour. I also work on related topics in comparative politics and comparative political economy, including new research on the "squeezed middle" and on support for radical right parties. My work has been published in journals such as Socio-Economic Review, Journal of European Public Policy, West European Politics and Journal of Public Policy.
 
