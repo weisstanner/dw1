@@ -1,11 +1,19 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
+
+Hello! I am David Weisstanner, a postdoctoral researcher at the University of Oxford. I am affiliated to the Department of Social Policy and Intervention, the Institute for New Economic Thinking, and an associate member of Nuffield College.
+
+My research focuses on the political causes and consequences of income inequality in advanced democracies. In my postdoc project (with Brian Nolan), I explore how absolute and relative economic experiences affect redistributive preferences and voting behaviour. I also work on related topics in comparative politics and comparative political economy, including new research on the "squeezed middle" and on support for radical right parties. My work has been published in journals such as Socio-Economic Review, Journal of European Public Policy, West European Politics and Journal of Public Policy.
+
+You can find my CV here. Please do not hesitate to contact me at david.weisstanner@spi.ox.ac.uk.
+
 ---
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
